@@ -1,0 +1,10 @@
+{
+  "name": "commitlint-poc",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Minimal app repo for commitlint POC on GitHub Actions + K8s ARC runner",
+  "devDependencies": {
+    "@commitlint/cli": "^19.0.0",
+    "@commitlint/config-conventional": "^19.0.0"
+  }
+}
